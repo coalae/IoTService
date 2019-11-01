@@ -1,0 +1,12 @@
+[2019-11-01T16:36:40.040Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting IotserviceApplication on DESKTOP-GGUOOQ0 with PID 15584 (C:\Users\Coala\Desktop\IoTService\target\classes started by Coala in C:\Users\Coala\Desktop\IoTService)
+[2019-11-01T16:36:40.040Z] [org.springframework.boot.SpringApplication] [main] [651] [INFO ] No active profile set, falling back to default profiles: default
+[2019-11-01T16:36:41.041Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [92] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2019-11-01T16:36:41.041Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-11-01T16:36:41.041Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2019-11-01T16:36:41.041Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.27]
+[2019-11-01T16:36:41.041Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2019-11-01T16:36:41.041Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [284] [INFO ] Root WebApplicationContext: initialization completed in 1327 ms
+[2019-11-01T16:36:41.041Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [main] [171] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-11-01T16:36:41.041Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2019-11-01T16:36:41.041Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [204] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-11-01T16:36:41.041Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started IotserviceApplication in 2.44 seconds (JVM running for 3.695)
